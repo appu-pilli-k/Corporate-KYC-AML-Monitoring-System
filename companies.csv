@@ -1,0 +1,15 @@
+client_id,company_name,company_type,country,industry,annual_revenue,onboarding_date,risk_status
+1001,ABC Manufacturing Pvt Ltd,Private Company,India,Manufacturing,25000000,2026-05-01,Pending
+1002,Global Energy PLC,Public Company,UK,Energy,800000000,2026-05-02,Pending
+1003,Sunrise Trust,Trust,India,NGO,12000000,2026-05-03,Pending
+1004,Alpha Partners LLP,Partnership,India,Consulting,18000000,2026-05-04,Pending
+1005,Ocean Shipping Ltd,Public Company,Singapore,Logistics,600000000,2026-05-05,Pending
+1006,Vertex Holdings Pvt Ltd,Private Company,India,Technology,45000000,2026-05-06,Pending
+1007,BlueRiver Exports LLP,Partnership,India,Exports,28000000,2026-05-07,Pending
+1008,Nova Pharma Pvt Ltd,Private Company,India,Pharmaceutical,72000000,2026-05-08,Pending
+1009,Apex Renewable PLC,Public Company,UK,Energy,950000000,2026-05-09,Pending
+1010,Eastern Logistics Ltd,Public Company,Singapore,Logistics,500000000,2026-05-10,Pending
+1011,Harmony Foundation Trust,Trust,India,Education,9000000,2026-05-11,Pending
+1012,Delta Engineering Pvt Ltd,Private Company,India,Engineering,34000000,2026-05-12,Pending
+1013,FutureTech Holdings Pvt Ltd,Private Company,India,Technology,60000000,2026-05-13,Pending
+1014,Orion Global LLP,Partnership,UAE,Consulting,41000000,2026-05-14,Pending

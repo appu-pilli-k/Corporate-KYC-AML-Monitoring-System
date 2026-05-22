@@ -1,0 +1,16 @@
+owner_id,client_id,owner_name,ownership_percentage,owner_type
+1,1001,Rajesh Kumar,60,Individual
+2,1001,ABC Holdings LLP,40,Corporate
+3,1002,Global Investment Group,100,Corporate
+4,1003,Trustee Board,100,Trust
+5,1004,Amit Sharma,50,Individual
+6,1004,Rahul Gupta,50,Individual
+7,1006,Vertex Global Holdings,100,Corporate
+8,1008,Prakash Holdings LLP,65,Corporate
+9,1008,Anita Rao,35,Individual
+10,1009,Global Capital Group,100,Corporate
+11,1010,Eastern Parent Holdings,80,Corporate
+12,1010,Minority Investors,20,Individual
+13,1013,Future Global Investments,100,Corporate
+14,1014,Rohan Sharma,40,Individual
+15,1014,International Consulting Group,60,Corporate

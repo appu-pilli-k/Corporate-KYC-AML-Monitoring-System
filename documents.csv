@@ -1,0 +1,12 @@
+client_id,document_name,status,submission_date,expiry_date
+1001,PAN,Verified,2026-05-01,2031-05-01
+1001,GST,Missing,,
+1001,Certificate_of_Incorporation,Verified,2026-05-01,2035-05-01
+1002,Board_Resolution,Verified,2026-05-02,2030-05-02
+1002,Tax_Registration,Verified,2026-05-02,2031-05-02
+1003,Trust_Deed,Verified,2026-05-03,2030-05-03
+1003,PAN,Expired,2021-01-01,2025-01-01
+1004,Partnership_Agreement,Verified,2026-05-04,2030-05-04
+1004,Partner_ID,Missing,,
+1005,Tax_Registration,Verified,2026-05-05,2031-05-05
+1006,PAN,Verified,2026-05-06,2031-05-06

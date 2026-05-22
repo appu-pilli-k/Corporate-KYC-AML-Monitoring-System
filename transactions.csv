@@ -1,0 +1,6 @@
+txn_id,client_id,txn_amount,currency,country,risk_flag
+T1001,1001,250000,INR,India,No
+T1002,1004,9000000,USD,UAE,Yes
+T1003,1008,400000,INR,India,No
+T1004,1010,15000000,USD,Singapore,No
+T1005,1014,12000000,USD,Iran,Yes
